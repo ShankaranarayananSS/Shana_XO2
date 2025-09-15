@@ -1,0 +1,19 @@
+# Android & IntelliJ
+*.iml
+.gradle
+/local.properties
+/.idea/
+/build/
+/captures/
+/output/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Signing files
+*.jks
+*.keystore
+*.key
