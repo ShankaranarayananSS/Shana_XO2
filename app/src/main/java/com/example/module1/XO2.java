@@ -15,7 +15,7 @@ public class XO2 extends AppCompatActivity implements View.OnClickListener{
 
     TextView txt0,txt1,txt2,txt3,txt4,txt5,txt6,txt7,txt8,tres;
     Button btn0,btn1,btn2,btn3,btn4,btn5,btn6,btn7,btn8,rest;
-    int num;
+    int num=0;
     String temp0,temp1;
     String[] val={"0","1","2","3","4","5","6","7","8"};
     FrameLayout f0,f1,f2,f3,f4,f5,f6,f7,f8;
